@@ -4,6 +4,7 @@ import java.io.Closeable;
 import java.io.File;
 import java.io.IOException;
 
+
 /**
  * Абстрактное представление о читателе файла.
  */
